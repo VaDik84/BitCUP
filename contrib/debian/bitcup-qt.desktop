@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=BitCUP Core
+Comment=BitCUP P2P Cryptocurrency
+Comment[de]=Verbinde mit dem BitCUP peer-to-peer Netzwerk
+Comment[fr]=BitCUP, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BitCUP, eşten eşe kriptografik sanal para birimi
+Exec=bitcup-qt %u
+Terminal=false
+Type=Application
+Icon=bitcup128
+MimeType=x-scheme-handler/bitcup;
+Categories=Office;Finance;P2P;Network;Qt;
+StartupWMClass=BitCUP-qt
