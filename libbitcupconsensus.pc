@@ -1,0 +1,10 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: BitCUP consensus library
+Description: Library for the BitCUP consensus protocol.
+Version: 20.0.1
+Libs: -L${libdir} -lbitcupconsensus
+Cflags: -I${includedir}
