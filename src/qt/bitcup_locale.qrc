@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/bitcup_ar.qm</file>
+        <file alias="bg">locale/bitcup_bg.qm</file>
+        <file alias="de">locale/bitcup_de.qm</file>
+        <file alias="en">locale/bitcup_en.qm</file>
+        <file alias="es">locale/bitcup_es.qm</file>
+        <file alias="fi">locale/bitcup_fi.qm</file>
+        <file alias="fr">locale/bitcup_fr.qm</file>
+        <file alias="it">locale/bitcup_it.qm</file>
+        <file alias="ja">locale/bitcup_ja.qm</file>
+        <file alias="ko">locale/bitcup_ko.qm</file>
+        <file alias="nl">locale/bitcup_nl.qm</file>
+        <file alias="pl">locale/bitcup_pl.qm</file>
+        <file alias="pt">locale/bitcup_pt.qm</file>
+        <file alias="ro">locale/bitcup_ro.qm</file>
+        <file alias="ru">locale/bitcup_ru.qm</file>
+        <file alias="sk">locale/bitcup_sk.qm</file>
+        <file alias="th">locale/bitcup_th.qm</file>
+        <file alias="tr">locale/bitcup_tr.qm</file>
+        <file alias="vi">locale/bitcup_vi.qm</file>
+        <file alias="zh_CN">locale/bitcup_zh_CN.qm</file>
+        <file alias="zh_TW">locale/bitcup_zh_TW.qm</file>
+    </qresource>
+</RCC>
